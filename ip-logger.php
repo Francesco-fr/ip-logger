@@ -58,7 +58,7 @@ function getBrowser() {
                             '/konqueror/i'  =>  'Konqueror',
 							'/Bot/i'		=>	'Spam',
 							'/Valve Steam GameOverlay/i'  =>  'Steam',
-                            '/mobile/i'     =>  'RubMyTummy Phone'
+                            '/mobile/i'     =>  'Phone'
                         );
     foreach ($browser_array as $regex => $value) { 
         if (preg_match($regex, $user_agent)) {
