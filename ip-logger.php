@@ -23,7 +23,7 @@ function getOS() {
                             '/macintosh|mac os x/i' =>  'Mac OS X',
                             '/mac_powerpc/i'        =>  'Mac OS 9',
                             '/linux/i'              =>  'Linux',
-							'/kalilinux/i'          =>  'Wannabe Hacker',
+							'/kalilinux/i'          =>  'Kali Linux',
                             '/ubuntu/i'             =>  'Ubuntu',
                             '/iphone/i'             =>  'iPhone',
                             '/ipod/i'               =>  'iPod',
